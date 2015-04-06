@@ -1,0 +1,37 @@
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.title{
+    background-color: #33bebe;
+    font-family: arial;
+    font-weight: normal;
+    
+}
+
+body {
+    color: red;
+}
+
+.main {
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+.info {
+    display: flex;
+}
+
+.name {
+    margin-right: 2%;
+}
+
+.email {
+    margin-right: 2%;
+}
+
